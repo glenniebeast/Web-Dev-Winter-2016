@@ -1,0 +1,29 @@
+    .dragger {
+
+        border: 2px solid #FF530D;
+		
+
+      }
+
+      .dragger div div {
+
+        border: 2px solid #FF0DFF;
+        border-radius: 10px;
+        display:inline-block;
+        padding:2px;
+        margin:2px;
+		
+
+      }
+
+      .dragger .options, .dragger .selections {
+
+        width:49%;
+        display:inline-block;
+
+      }
+
+      .recipe {
+
+        border: 2px solid #10BCFF;
+        margin : 20px;
