@@ -1,5 +1,3 @@
-script type="text/javascript"
-
       var ingredients = {
         1 : 'beans',
         10 : 'cilantro',
